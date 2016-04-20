@@ -12,9 +12,13 @@ namespace RemoveGit
         {
             return true;
         }
-        public string test()
+        public string Test()
         {
             return "";
+        }
+        public void Oui()
+        {
+            int i= 1 + 1;
         }
     }
 }
