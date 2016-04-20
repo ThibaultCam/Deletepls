@@ -12,5 +12,9 @@ namespace RemoveGit
         {
             return true;
         }
+        public string test()
+        {
+            return "";
+        }
     }
 }
