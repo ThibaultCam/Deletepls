@@ -20,6 +20,7 @@ namespace RemoveGit
         {
             int i= 1 + 1;
             string non = "non";
+            string nom = "suarementhe";
             i++;
         }
     }
