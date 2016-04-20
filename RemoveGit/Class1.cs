@@ -21,6 +21,7 @@ namespace RemoveGit
             int i= 1 + 1;
             string non = "non";
             i++;
+            string siSiJeTassure = "oui";
         }
     }
 }
