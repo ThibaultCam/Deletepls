@@ -19,6 +19,7 @@ namespace RemoveGit
         public void Oui()
         {
             int i= 1 + 1;
+            string non = "non";
         }
     }
 }
