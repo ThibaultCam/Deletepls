@@ -8,9 +8,9 @@ namespace RemoveGit
 {
     public class Class1
     {
-        public void Method()
+        public bool Method()
         {
-
+            return true;
         }
     }
 }
