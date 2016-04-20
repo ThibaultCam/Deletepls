@@ -23,6 +23,7 @@ namespace RemoveGit
             string nom = "suarementhe";
             i++;
             string siSiJeTassure = "oui";
+            string oui = "te trompe pas cette fois";
         }
     }
 }
